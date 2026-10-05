@@ -1,7 +1,7 @@
 {
   "version": 4,
-  "folioSiguiente": 81,
-  "generado": "2026-10-05T23:52:53.340Z",
+  "folioSiguiente": 85,
+  "generado": "2026-10-05T23:55:31.740Z",
   "categorias": [
     {
       "nombre": "AUTOS",
@@ -1055,6 +1055,74 @@
               "necesitaContraste": true,
               "porcentajeClaro": 0.0947,
               "porcentajeColorido": 0.6979
+            }
+          ]
+        },
+        {
+          "numero": "0081",
+          "sku": "JROO0081",
+          "imagenes": [
+            {
+              "archivo": "San Judas Tadeo, Icono Verde y Dorado.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.14,
+              "porcentajeColorido": 0.4839
+            }
+          ]
+        },
+        {
+          "numero": "0082",
+          "sku": "TAOA0082",
+          "imagenes": [
+            {
+              "archivo": "San Juditas con Halo Dorado y Libro.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.2115,
+              "porcentajeColorido": 0.7429
+            }
+          ]
+        },
+        {
+          "numero": "0083",
+          "sku": "IFAO0083",
+          "imagenes": [
+            {
+              "archivo": "Santo chibi con halo y flores.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": false,
+              "necesitaContraste": false,
+              "porcentajeClaro": 0.0524,
+              "porcentajeColorido": 0.8766
+            }
+          ]
+        },
+        {
+          "numero": "0084",
+          "sku": "DOON0084",
+          "imagenes": [
+            {
+              "archivo": "Santo Niño con Medallón Dorado.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.084,
+              "porcentajeColorido": 0.7999
             }
           ]
         }
