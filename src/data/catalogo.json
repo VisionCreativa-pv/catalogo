@@ -1,7 +1,7 @@
 {
   "version": 4,
   "folioSiguiente": 85,
-  "generado": "2026-10-05T23:57:22.676Z",
+  "generado": "2026-10-05T23:59:13.394Z",
   "categorias": [
     {
       "nombre": "AUTOS",
@@ -1004,23 +1004,6 @@
               "necesitaContraste": false,
               "porcentajeClaro": 0.0593,
               "porcentajeColorido": 0.7357
-            }
-          ]
-        },
-        {
-          "numero": "0079",
-          "sku": "IODI0079",
-          "imagenes": [
-            {
-              "archivo": "San Judas Tadeo Radiante (1).png",
-              "vista": "front",
-              "posicion": "center",
-              "vistaCodigo": "F",
-              "posicionCodigo": "C",
-              "estampadoClaro": true,
-              "necesitaContraste": true,
-              "porcentajeClaro": 0.2676,
-              "porcentajeColorido": 0.5804
             }
           ]
         },
