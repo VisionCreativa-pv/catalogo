@@ -1,7 +1,7 @@
 {
   "version": 4,
   "folioSiguiente": 85,
-  "generado": "2026-10-05T23:55:31.740Z",
+  "generado": "2026-10-05T23:57:22.676Z",
   "categorias": [
     {
       "nombre": "AUTOS",
@@ -851,23 +851,6 @@
               "necesitaContraste": true,
               "porcentajeClaro": 0.0861,
               "porcentajeColorido": 0.8291
-            }
-          ]
-        },
-        {
-          "numero": "0069",
-          "sku": "NAOL0069",
-          "imagenes": [
-            {
-              "archivo": "Retrato sagrado con halo dorado y llama.png",
-              "vista": "front",
-              "posicion": "top",
-              "vistaCodigo": "F",
-              "posicionCodigo": "T",
-              "estampadoClaro": true,
-              "necesitaContraste": true,
-              "porcentajeClaro": 0.3842,
-              "porcentajeColorido": 0.4879
             }
           ]
         },
