@@ -2108,6 +2108,17 @@
     display:none !important;
 }
 
+/* Al mostrar Detalles, evita que el alto mínimo de Home lo empuje debajo del viewport. */
+#catalogHome.details-active .home-app {
+    min-height:0;
+}
+
+#catalogHome.details-active #homeProductDetails.is-open {
+    display:block !important;
+    visibility:visible;
+    opacity:1;
+}
+
 @media (max-width:600px) {
     #catalogHome.details-active .home-topbar {
         position:absolute;
