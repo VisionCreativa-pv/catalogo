@@ -1,7 +1,7 @@
 {
   "version": 4,
-  "folioSiguiente": 68,
-  "generado": "2026-10-05T22:03:24.319Z",
+  "folioSiguiente": 74,
+  "generado": "2026-10-05T23:51:19.999Z",
   "categorias": [
     {
       "nombre": "AUTOS",
@@ -834,6 +834,108 @@
               "necesitaContraste": false,
               "porcentajeClaro": 0,
               "porcentajeColorido": 1
+            }
+          ]
+        },
+        {
+          "numero": "0068",
+          "sku": "DJNH0068",
+          "imagenes": [
+            {
+              "archivo": "Jesús chibi entre nubes y destellos verdes.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.0861,
+              "porcentajeColorido": 0.8291
+            }
+          ]
+        },
+        {
+          "numero": "0069",
+          "sku": "NAOL0069",
+          "imagenes": [
+            {
+              "archivo": "Retrato sagrado con halo dorado y llama.png",
+              "vista": "front",
+              "posicion": "top",
+              "vistaCodigo": "F",
+              "posicionCodigo": "T",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.3842,
+              "porcentajeColorido": 0.4879
+            }
+          ]
+        },
+        {
+          "numero": "0070",
+          "sku": "AAUH0070",
+          "imagenes": [
+            {
+              "archivo": "San Judas con halo dorado y medallón.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": false,
+              "necesitaContraste": false,
+              "porcentajeClaro": 0.0308,
+              "porcentajeColorido": 0.7732
+            }
+          ]
+        },
+        {
+          "numero": "0071",
+          "sku": "SJDE0071",
+          "imagenes": [
+            {
+              "archivo": "San Judas dorado con halo radiante (1).png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": false,
+              "necesitaContraste": false,
+              "porcentajeClaro": 0,
+              "porcentajeColorido": 0.5323
+            }
+          ]
+        },
+        {
+          "numero": "0072",
+          "sku": "SERP0072",
+          "imagenes": [
+            {
+              "archivo": "San Judas Tadeo Bendice y Protege.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": false,
+              "necesitaContraste": false,
+              "porcentajeClaro": 0.0302,
+              "porcentajeColorido": 0.6384
+            }
+          ]
+        },
+        {
+          "numero": "0073",
+          "sku": "DJOE0073",
+          "imagenes": [
+            {
+              "archivo": "San Judas Tadeo con Medallón Dorado (1).png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": false,
+              "necesitaContraste": false,
+              "porcentajeClaro": 0.0401,
+              "porcentajeColorido": 0.7388
             }
           ]
         }
