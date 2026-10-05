@@ -1,7 +1,7 @@
 {
   "version": 4,
-  "folioSiguiente": 74,
-  "generado": "2026-10-05T23:51:19.999Z",
+  "folioSiguiente": 81,
+  "generado": "2026-10-05T23:52:53.340Z",
   "categorias": [
     {
       "nombre": "AUTOS",
@@ -936,6 +936,125 @@
               "necesitaContraste": false,
               "porcentajeClaro": 0.0401,
               "porcentajeColorido": 0.7388
+            }
+          ]
+        },
+        {
+          "numero": "0074",
+          "sku": "SYLC0074",
+          "imagenes": [
+            {
+              "archivo": "San Judas Tadeo con Rosas y Halo.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": false,
+              "necesitaContraste": false,
+              "porcentajeClaro": 0.0659,
+              "porcentajeColorido": 0.6732
+            }
+          ]
+        },
+        {
+          "numero": "0075",
+          "sku": "ARAS0075",
+          "imagenes": [
+            {
+              "archivo": "San Judas Tadeo entre rosas doradas (1).png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.0857,
+              "porcentajeColorido": 0.6823
+            }
+          ]
+        },
+        {
+          "numero": "0076",
+          "sku": "DAOE0076",
+          "imagenes": [
+            {
+              "archivo": "San Judas Tadeo entre Rosas Rojas.png",
+              "vista": "front",
+              "posicion": "top",
+              "vistaCodigo": "F",
+              "posicionCodigo": "T",
+              "estampadoClaro": false,
+              "necesitaContraste": false,
+              "porcentajeClaro": 0.06,
+              "porcentajeColorido": 0.8155
+            }
+          ]
+        },
+        {
+          "numero": "0077",
+          "sku": "REUJ0077",
+          "imagenes": [
+            {
+              "archivo": "San Judas Tadeo entre Rosas y Oro (1).png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": false,
+              "necesitaContraste": false,
+              "porcentajeClaro": 0.0575,
+              "porcentajeColorido": 0.5671
+            }
+          ]
+        },
+        {
+          "numero": "0078",
+          "sku": "SNDE0078",
+          "imagenes": [
+            {
+              "archivo": "San Judas Tadeo entre Rosas y Oro.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": false,
+              "necesitaContraste": false,
+              "porcentajeClaro": 0.0593,
+              "porcentajeColorido": 0.7357
+            }
+          ]
+        },
+        {
+          "numero": "0079",
+          "sku": "IODI0079",
+          "imagenes": [
+            {
+              "archivo": "San Judas Tadeo Radiante (1).png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.2676,
+              "porcentajeColorido": 0.5804
+            }
+          ]
+        },
+        {
+          "numero": "0080",
+          "sku": "SITA0080",
+          "imagenes": [
+            {
+              "archivo": "San Judas Tadeo, Emblema Radiante.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.0947,
+              "porcentajeColorido": 0.6979
             }
           ]
         }
