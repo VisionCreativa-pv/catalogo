@@ -51,7 +51,7 @@
     {
       "id": "royal",
       "nombre": "Royal",
-      "hex": "#0D2C6F",
+      "hex": "#0504AA",
       "generos": ["caballero", "dama", "joven", "nino", "bebe"]
     },
     {
