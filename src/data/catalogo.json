@@ -1,7 +1,7 @@
 {
   "version": 4,
   "folioSiguiente": 101,
-  "generado": "2026-10-06T20:17:43.393Z",
+  "generado": "2026-10-06T20:18:27.968Z",
   "categorias": [
     {
       "nombre": "AUTOS",
@@ -79,23 +79,6 @@
               "necesitaContraste": false,
               "porcentajeClaro": 0.0155,
               "porcentajeColorido": 0.3722
-            }
-          ]
-        },
-        {
-          "numero": "0062",
-          "sku": "TMTT0062",
-          "imagenes": [
-            {
-              "archivo": "ChatGPT Image 28 sept 2026, 03_11_18 p.m..png",
-              "vista": "front",
-              "posicion": "center",
-              "vistaCodigo": "F",
-              "posicionCodigo": "C",
-              "estampadoClaro": true,
-              "necesitaContraste": true,
-              "porcentajeClaro": 0.2247,
-              "porcentajeColorido": 0.3326
             }
           ]
         },
