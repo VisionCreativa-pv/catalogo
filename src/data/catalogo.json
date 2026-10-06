@@ -1,7 +1,7 @@
 {
   "version": 4,
   "folioSiguiente": 101,
-  "generado": "2026-10-06T19:47:59.432Z",
+  "generado": "2026-10-06T20:15:09.814Z",
   "categorias": [
     {
       "nombre": "AUTOS",
@@ -62,23 +62,6 @@
               "necesitaContraste": false,
               "porcentajeClaro": 0.0745,
               "porcentajeColorido": 0.3176
-            }
-          ]
-        },
-        {
-          "numero": "0059",
-          "sku": "PESE0059",
-          "imagenes": [
-            {
-              "archivo": "ChatGPT Image 28 sept 2026, 02_59_13 p.m..png",
-              "vista": "front",
-              "posicion": "center",
-              "vistaCodigo": "F",
-              "posicionCodigo": "C",
-              "estampadoClaro": true,
-              "necesitaContraste": true,
-              "porcentajeClaro": 0.0811,
-              "porcentajeColorido": 0.4381
             }
           ]
         },
