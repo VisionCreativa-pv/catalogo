@@ -2,9 +2,9 @@
   "tallas": [
     { "id": "CH", "nombre": "CH", "generos": ["dama", "caballero", "joven", "nino"] },
     { "id": "M", "nombre": "M", "generos": ["dama", "caballero", "joven", "nino"] },
-    { "id": "G", "nombre": "G", "generos": ["dama", "caballero", "joven"] },
-    { "id": "EG", "nombre": "EG", "generos": ["dama", "caballero"] },
-    { "id": "2XL", "nombre": "2XL", "generos": ["dama", "caballero"] },
-    { "id": "3XL", "nombre": "3XL", "generos": ["dama", "caballero"] }
+    { "id": "G", "nombre": "G", "generos": ["dama", "caballero", "joven", "nino"] },
+    { "id": "EG", "nombre": "EG", "generos": ["dama", "caballero", "nino", "joven"] },
+    { "id": "2XL", "nombre": "2XL", "generos": ["caballero"] },
+    { "id": "3XL", "nombre": "3XL", "generos": ["caballero"] }
   ]
 }
