@@ -1,7 +1,7 @@
 {
   "version": 4,
-  "folioSiguiente": 97,
-  "generado": "2026-10-06T19:17:56.290Z",
+  "folioSiguiente": 101,
+  "generado": "2026-10-06T19:32:07.598Z",
   "categorias": [
     {
       "nombre": "AUTOS",
@@ -245,10 +245,10 @@
               "posicion": "center",
               "vistaCodigo": "F",
               "posicionCodigo": "C",
-              "estampadoClaro": false,
-              "necesitaContraste": false,
-              "porcentajeClaro": 0,
-              "porcentajeColorido": 0.8736
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.1476,
+              "porcentajeColorido": 0.664
             }
           ]
         },
@@ -351,6 +351,74 @@
               "necesitaContraste": true,
               "porcentajeClaro": 0.1356,
               "porcentajeColorido": 0.69
+            }
+          ]
+        },
+        {
+          "numero": "0097",
+          "sku": "TSNO0097",
+          "imagenes": [
+            {
+              "archivo": "ghostone.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.117,
+              "porcentajeColorido": 0.7337
+            }
+          ]
+        },
+        {
+          "numero": "0098",
+          "sku": "VWHE0098",
+          "imagenes": [
+            {
+              "archivo": "hallowenfacefive.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.1251,
+              "porcentajeColorido": 0.7152
+            }
+          ]
+        },
+        {
+          "numero": "0099",
+          "sku": "EOFN0099",
+          "imagenes": [
+            {
+              "archivo": "hallowenfacefour.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.142,
+              "porcentajeColorido": 0.6723
+            }
+          ]
+        },
+        {
+          "numero": "0100",
+          "sku": "EEHA0100",
+          "imagenes": [
+            {
+              "archivo": "hallowensqueletoon.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.1301,
+              "porcentajeColorido": 0.7039
             }
           ]
         }
