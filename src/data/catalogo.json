@@ -1,7 +1,7 @@
 {
   "version": 4,
-  "folioSiguiente": 85,
-  "generado": "2026-10-05T23:59:13.394Z",
+  "folioSiguiente": 87,
+  "generado": "2026-10-06T00:05:56.536Z",
   "categorias": [
     {
       "nombre": "AUTOS",
@@ -1089,6 +1089,40 @@
               "necesitaContraste": true,
               "porcentajeClaro": 0.084,
               "porcentajeColorido": 0.7999
+            }
+          ]
+        },
+        {
+          "numero": "0085",
+          "sku": "AAAA0085",
+          "imagenes": [
+            {
+              "archivo": "replandor sanjudas.png",
+              "vista": "front",
+              "posicion": "top",
+              "vistaCodigo": "F",
+              "posicionCodigo": "T",
+              "estampadoClaro": false,
+              "necesitaContraste": false,
+              "porcentajeClaro": 0.0118,
+              "porcentajeColorido": 0.7806
+            }
+          ]
+        },
+        {
+          "numero": "0086",
+          "sku": "NSAU0086",
+          "imagenes": [
+            {
+              "archivo": "sanjudas baston.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": false,
+              "necesitaContraste": false,
+              "porcentajeClaro": 0.0312,
+              "porcentajeColorido": 0.7559
             }
           ]
         }
