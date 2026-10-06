@@ -1,7 +1,7 @@
 {
   "version": 4,
   "folioSiguiente": 101,
-  "generado": "2026-10-06T20:15:09.814Z",
+  "generado": "2026-10-06T20:17:43.393Z",
   "categorias": [
     {
       "nombre": "AUTOS",
@@ -83,23 +83,6 @@
           ]
         },
         {
-          "numero": "0061",
-          "sku": "GEGT0061",
-          "imagenes": [
-            {
-              "archivo": "ChatGPT Image 28 sept 2026, 03_10_17 p.m..png",
-              "vista": "front",
-              "posicion": "center",
-              "vistaCodigo": "F",
-              "posicionCodigo": "C",
-              "estampadoClaro": true,
-              "necesitaContraste": true,
-              "porcentajeClaro": 0.2861,
-              "porcentajeColorido": 0.2706
-            }
-          ]
-        },
-        {
           "numero": "0062",
           "sku": "TMTT0062",
           "imagenes": [
@@ -113,40 +96,6 @@
               "necesitaContraste": true,
               "porcentajeClaro": 0.2247,
               "porcentajeColorido": 0.3326
-            }
-          ]
-        },
-        {
-          "numero": "0063",
-          "sku": "EGIP0063",
-          "imagenes": [
-            {
-              "archivo": "ChatGPT Image 28 sept 2026, 03_12_21 p.m..png",
-              "vista": "front",
-              "posicion": "center",
-              "vistaCodigo": "F",
-              "posicionCodigo": "C",
-              "estampadoClaro": true,
-              "necesitaContraste": true,
-              "porcentajeClaro": 0.2256,
-              "porcentajeColorido": 0.2974
-            }
-          ]
-        },
-        {
-          "numero": "0064",
-          "sku": "AGEP0064",
-          "imagenes": [
-            {
-              "archivo": "ChatGPT Image 28 sept 2026, 03_26_13 p.m..png",
-              "vista": "front",
-              "posicion": "center",
-              "vistaCodigo": "F",
-              "posicionCodigo": "C",
-              "estampadoClaro": true,
-              "necesitaContraste": true,
-              "porcentajeClaro": 0.1891,
-              "porcentajeColorido": 0.3954
             }
           ]
         },
