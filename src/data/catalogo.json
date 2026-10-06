@@ -1,7 +1,7 @@
 {
   "version": 4,
   "folioSiguiente": 101,
-  "generado": "2026-10-06T20:18:27.968Z",
+  "generado": "2026-10-06T20:19:23.764Z",
   "categorias": [
     {
       "nombre": "AUTOS",
@@ -45,23 +45,6 @@
               "necesitaContraste": false,
               "porcentajeClaro": 0.0141,
               "porcentajeColorido": 0.5329
-            }
-          ]
-        },
-        {
-          "numero": "0058",
-          "sku": "GPMT0058",
-          "imagenes": [
-            {
-              "archivo": "ChatGPT Image 28 sept 2026, 02_55_57 p.m..png",
-              "vista": "front",
-              "posicion": "center",
-              "vistaCodigo": "F",
-              "posicionCodigo": "C",
-              "estampadoClaro": false,
-              "necesitaContraste": false,
-              "porcentajeClaro": 0.0745,
-              "porcentajeColorido": 0.3176
             }
           ]
         },
