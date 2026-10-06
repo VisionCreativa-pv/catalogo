@@ -1,7 +1,7 @@
 {
   "version": 4,
-  "folioSiguiente": 93,
-  "generado": "2026-10-06T19:09:15.265Z",
+  "folioSiguiente": 97,
+  "generado": "2026-10-06T19:17:56.290Z",
   "categorias": [
     {
       "nombre": "AUTOS",
@@ -283,6 +283,74 @@
               "necesitaContraste": true,
               "porcentajeClaro": 0.1143,
               "porcentajeColorido": 0.7387
+            }
+          ]
+        },
+        {
+          "numero": "0093",
+          "sku": "LNNW0093",
+          "imagenes": [
+            {
+              "archivo": "hallowenbruja.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.1415,
+              "porcentajeColorido": 0.6841
+            }
+          ]
+        },
+        {
+          "numero": "0094",
+          "sku": "AEAB0094",
+          "imagenes": [
+            {
+              "archivo": "hallowenfacecalabaza.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.1172,
+              "porcentajeColorido": 0.7305
+            }
+          ]
+        },
+        {
+          "numero": "0095",
+          "sku": "AOLE0095",
+          "imagenes": [
+            {
+              "archivo": "hallowenfacethre.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.1414,
+              "porcentajeColorido": 0.6766
+            }
+          ]
+        },
+        {
+          "numero": "0096",
+          "sku": "ANAO0096",
+          "imagenes": [
+            {
+              "archivo": "hallowenluna.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.1356,
+              "porcentajeColorido": 0.69
             }
           ]
         }
