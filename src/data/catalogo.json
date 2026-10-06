@@ -1,7 +1,7 @@
 {
   "version": 4,
-  "folioSiguiente": 92,
-  "generado": "2026-10-06T19:02:56.870Z",
+  "folioSiguiente": 93,
+  "generado": "2026-10-06T19:09:15.265Z",
   "categorias": [
     {
       "nombre": "AUTOS",
@@ -266,6 +266,23 @@
               "necesitaContraste": true,
               "porcentajeClaro": 0.1252,
               "porcentajeColorido": 0.7134
+            }
+          ]
+        },
+        {
+          "numero": "0092",
+          "sku": "TOLA0092",
+          "imagenes": [
+            {
+              "archivo": "hallowenfacetwo.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.1143,
+              "porcentajeColorido": 0.7387
             }
           ]
         }
