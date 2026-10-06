@@ -1,7 +1,7 @@
 {
   "version": 4,
   "folioSiguiente": 101,
-  "generado": "2026-10-06T19:32:07.598Z",
+  "generado": "2026-10-06T19:35:10.151Z",
   "categorias": [
     {
       "nombre": "AUTOS",
@@ -215,23 +215,6 @@
               "necesitaContraste": true,
               "porcentajeClaro": 0.0844,
               "porcentajeColorido": 0.4596
-            }
-          ]
-        },
-        {
-          "numero": "0089",
-          "sku": "OFCE0089",
-          "imagenes": [
-            {
-              "archivo": "faceone.png",
-              "vista": "front",
-              "posicion": "top",
-              "vistaCodigo": "F",
-              "posicionCodigo": "T",
-              "estampadoClaro": false,
-              "necesitaContraste": false,
-              "porcentajeClaro": 0,
-              "porcentajeColorido": 0.8864
             }
           ]
         },
