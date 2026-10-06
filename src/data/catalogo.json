@@ -1,7 +1,7 @@
 {
   "version": 4,
   "folioSiguiente": 90,
-  "generado": "2026-10-06T17:33:29.680Z",
+  "generado": "2026-10-06T17:46:46.395Z",
   "categorias": [
     {
       "nombre": "AUTOS",
@@ -215,23 +215,6 @@
               "necesitaContraste": true,
               "porcentajeClaro": 0.0844,
               "porcentajeColorido": 0.4596
-            }
-          ]
-        },
-        {
-          "numero": "0088",
-          "sku": "AAAA0088",
-          "imagenes": [
-            {
-              "archivo": "araña..png",
-              "vista": "front",
-              "posicion": "top",
-              "vistaCodigo": "F",
-              "posicionCodigo": "T",
-              "estampadoClaro": false,
-              "necesitaContraste": false,
-              "porcentajeClaro": 0,
-              "porcentajeColorido": 0.9986
             }
           ]
         },
