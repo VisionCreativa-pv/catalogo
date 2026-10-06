@@ -1,7 +1,7 @@
 {
   "version": 4,
-  "folioSiguiente": 101,
-  "generado": "2026-10-06T20:19:23.764Z",
+  "folioSiguiente": 106,
+  "generado": "2026-10-06T20:23:58.273Z",
   "categorias": [
     {
       "nombre": "AUTOS",
@@ -300,6 +300,91 @@
               "necesitaContraste": true,
               "porcentajeClaro": 0.1301,
               "porcentajeColorido": 0.7039
+            }
+          ]
+        },
+        {
+          "numero": "0101",
+          "sku": "AOLE0101",
+          "imagenes": [
+            {
+              "archivo": "HALLOWEN002.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": false,
+              "necesitaContraste": false,
+              "porcentajeClaro": 0.0272,
+              "porcentajeColorido": 0.3985
+            }
+          ]
+        },
+        {
+          "numero": "0102",
+          "sku": "HNLA0102",
+          "imagenes": [
+            {
+              "archivo": "HALLOWEN003.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": false,
+              "necesitaContraste": false,
+              "porcentajeClaro": 0.019,
+              "porcentajeColorido": 0.4953
+            }
+          ]
+        },
+        {
+          "numero": "0103",
+          "sku": "WHNL0103",
+          "imagenes": [
+            {
+              "archivo": "HALLOWEN006.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.102,
+              "porcentajeColorido": 0.609
+            }
+          ]
+        },
+        {
+          "numero": "0104",
+          "sku": "OLEW0104",
+          "imagenes": [
+            {
+              "archivo": "HALLOWEN007.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": false,
+              "necesitaContraste": false,
+              "porcentajeClaro": 0.0718,
+              "porcentajeColorido": 0.3603
+            }
+          ]
+        },
+        {
+          "numero": "0105",
+          "sku": "HNLA0105",
+          "imagenes": [
+            {
+              "archivo": "HALLOWEN01.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": false,
+              "necesitaContraste": false,
+              "porcentajeClaro": 0.0346,
+              "porcentajeColorido": 0.427
             }
           ]
         }
