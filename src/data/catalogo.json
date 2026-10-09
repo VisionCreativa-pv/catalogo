@@ -1,7 +1,7 @@
 {
   "version": 4,
-  "folioSiguiente": 117,
-  "generado": "2026-10-09T23:25:42.094Z",
+  "folioSiguiente": 118,
+  "generado": "2026-10-09T23:58:06.793Z",
   "categorias": [
     {
       "nombre": "AUTOS",
@@ -572,6 +572,23 @@
               "necesitaContraste": true,
               "porcentajeClaro": 0.1462,
               "porcentajeColorido": 0.424
+            }
+          ]
+        },
+        {
+          "numero": "0117",
+          "sku": "EAWA0117",
+          "imagenes": [
+            {
+              "archivo": "Fantasma y letras de Halloween coloridas.png",
+              "vista": "front",
+              "posicion": "top",
+              "vistaCodigo": "F",
+              "posicionCodigo": "T",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.3355,
+              "porcentajeColorido": 0.4022
             }
           ]
         }
