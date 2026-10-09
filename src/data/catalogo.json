@@ -1,7 +1,7 @@
 {
   "version": 4,
-  "folioSiguiente": 106,
-  "generado": "2026-10-06T20:23:58.273Z",
+  "folioSiguiente": 117,
+  "generado": "2026-10-09T23:25:42.094Z",
   "categorias": [
     {
       "nombre": "AUTOS",
@@ -385,6 +385,193 @@
               "necesitaContraste": false,
               "porcentajeClaro": 0.0346,
               "porcentajeColorido": 0.427
+            }
+          ]
+        },
+        {
+          "numero": "0106",
+          "sku": "APGB0106",
+          "imagenes": [
+            {
+              "archivo": "¡BOO! Pegajoso entre telarañas y murciélagos.png",
+              "vista": "front",
+              "posicion": "top",
+              "vistaCodigo": "F",
+              "posicionCodigo": "T",
+              "estampadoClaro": false,
+              "necesitaContraste": false,
+              "porcentajeClaro": 0.0068,
+              "porcentajeColorido": 0.6847
+            }
+          ]
+        },
+        {
+          "numero": "0107",
+          "sku": "RERR0107",
+          "imagenes": [
+            {
+              "archivo": "Amigos del horror_ rostros icónicos.png",
+              "vista": "front",
+              "posicion": "top",
+              "vistaCodigo": "F",
+              "posicionCodigo": "T",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.1476,
+              "porcentajeColorido": 0.3109
+            }
+          ]
+        },
+        {
+          "numero": "0108",
+          "sku": "EIGL0108",
+          "imagenes": [
+            {
+              "archivo": "Amigos del terror en caricatura.png",
+              "vista": "front",
+              "posicion": "top",
+              "vistaCodigo": "F",
+              "posicionCodigo": "T",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.1608,
+              "porcentajeColorido": 0.3828
+            }
+          ]
+        },
+        {
+          "numero": "0109",
+          "sku": "AIDM0109",
+          "imagenes": [
+            {
+              "archivo": "Amigos en la Van Psicodélica.png",
+              "vista": "front",
+              "posicion": "top",
+              "vistaCodigo": "F",
+              "posicionCodigo": "T",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.0878,
+              "porcentajeColorido": 0.5142
+            }
+          ]
+        },
+        {
+          "numero": "0110",
+          "sku": "OUOS0110",
+          "imagenes": [
+            {
+              "archivo": "BOO Monstruoso de Halloween.png",
+              "vista": "front",
+              "posicion": "top",
+              "vistaCodigo": "F",
+              "posicionCodigo": "T",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.0862,
+              "porcentajeColorido": 0.2853
+            }
+          ]
+        },
+        {
+          "numero": "0111",
+          "sku": "YNUV0111",
+          "imagenes": [
+            {
+              "archivo": "Boo-y Ghoul Uncle Loves You.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.2042,
+              "porcentajeColorido": 0.4244
+            }
+          ]
+        },
+        {
+          "numero": "0112",
+          "sku": "SLLE0112",
+          "imagenes": [
+            {
+              "archivo": "Costillas dulces con corazón brillante.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.2912,
+              "porcentajeColorido": 0.2282
+            }
+          ]
+        },
+        {
+          "numero": "0113",
+          "sku": "ZICT0113",
+          "imagenes": [
+            {
+              "archivo": "Fantasma Halloween con calabaza y murciélagos.png",
+              "vista": "front",
+              "posicion": "top",
+              "vistaCodigo": "F",
+              "posicionCodigo": "T",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.2095,
+              "porcentajeColorido": 0.3224
+            }
+          ]
+        },
+        {
+          "numero": "0114",
+          "sku": "HEAS0114",
+          "imagenes": [
+            {
+              "archivo": "Fiesta Halloween_ Boo y Calabazas.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": false,
+              "necesitaContraste": false,
+              "porcentajeClaro": 0.0061,
+              "porcentajeColorido": 0.5644
+            }
+          ]
+        },
+        {
+          "numero": "0115",
+          "sku": "EDEC0115",
+          "imagenes": [
+            {
+              "archivo": "Íconos del terror en el sofá de Friends.png",
+              "vista": "front",
+              "posicion": "top",
+              "vistaCodigo": "F",
+              "posicionCodigo": "T",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.1239,
+              "porcentajeColorido": 0.392
+            }
+          ]
+        },
+        {
+          "numero": "0116",
+          "sku": "WRLS0116",
+          "imagenes": [
+            {
+              "archivo": "Ilustración de Halloween con gatitos y calabazas.png",
+              "vista": "front",
+              "posicion": "top",
+              "vistaCodigo": "F",
+              "posicionCodigo": "T",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.1462,
+              "porcentajeColorido": 0.424
             }
           ]
         }
