@@ -1,7 +1,7 @@
 {
   "version": 4,
-  "folioSiguiente": 130,
-  "generado": "2026-10-10T00:15:09.728Z",
+  "folioSiguiente": 135,
+  "generado": "2026-10-10T00:22:41.148Z",
   "categorias": [
     {
       "nombre": "AUTOS",
@@ -215,6 +215,91 @@
               "necesitaContraste": false,
               "porcentajeClaro": 0.0433,
               "porcentajeColorido": 0.6673
+            }
+          ]
+        },
+        {
+          "numero": "0130",
+          "sku": "RARC0130",
+          "imagenes": [
+            {
+              "archivo": "Celebración colorida del Día de Muertos.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.331,
+              "porcentajeColorido": 0.3841
+            }
+          ]
+        },
+        {
+          "numero": "0131",
+          "sku": "ENUA0131",
+          "imagenes": [
+            {
+              "archivo": "Día de los Muertos en color vibrante.png",
+              "vista": "front",
+              "posicion": "top",
+              "vistaCodigo": "F",
+              "posicionCodigo": "T",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.2003,
+              "porcentajeColorido": 0.6182
+            }
+          ]
+        },
+        {
+          "numero": "0132",
+          "sku": "LNES0132",
+          "imagenes": [
+            {
+              "archivo": "El Fin_ Tipografía de Huesos Coloridos.png",
+              "vista": "front",
+              "posicion": "top",
+              "vistaCodigo": "F",
+              "posicionCodigo": "T",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.3716,
+              "porcentajeColorido": 0.1717
+            }
+          ]
+        },
+        {
+          "numero": "0133",
+          "sku": "ECVZ0133",
+          "imagenes": [
+            {
+              "archivo": "Esqueleto Catrín de Calavera de Azúcar.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.4474,
+              "porcentajeColorido": 0
+            }
+          ]
+        },
+        {
+          "numero": "0134",
+          "sku": "ATTA0134",
+          "imagenes": [
+            {
+              "archivo": "Maestra Catrina entre flores y colores.png",
+              "vista": "front",
+              "posicion": "top",
+              "vistaCodigo": "F",
+              "posicionCodigo": "T",
+              "estampadoClaro": false,
+              "necesitaContraste": false,
+              "porcentajeClaro": 0.0389,
+              "porcentajeColorido": 0.6809
             }
           ]
         }
