@@ -1,13 +1,224 @@
 {
   "version": 4,
-  "folioSiguiente": 118,
-  "generado": "2026-10-09T23:58:06.793Z",
+  "folioSiguiente": 130,
+  "generado": "2026-10-10T00:10:36.878Z",
   "categorias": [
     {
       "nombre": "AUTOS",
       "carpeta": "AUTOS",
       "prefijo": "AUT",
       "productos": []
+    },
+    {
+      "nombre": "DIA DE MUERTOS",
+      "carpeta": "DIA DE MUERTOS",
+      "prefijo": "DIA",
+      "productos": [
+        {
+          "numero": "0118",
+          "sku": "LARU0118",
+          "imagenes": [
+            {
+              "archivo": "Calavera de Azúcar Floral Neón.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.1152,
+              "porcentajeColorido": 0.6087
+            }
+          ]
+        },
+        {
+          "numero": "0119",
+          "sku": "ALMR0119",
+          "imagenes": [
+            {
+              "archivo": "Calavera de Día de Muertos Colorida.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": false,
+              "necesitaContraste": false,
+              "porcentajeClaro": 0.012,
+              "porcentajeColorido": 0.7151
+            }
+          ]
+        },
+        {
+          "numero": "0120",
+          "sku": "ARVA0120",
+          "imagenes": [
+            {
+              "archivo": "Calavera Floral del Día de Muertos.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": false,
+              "necesitaContraste": false,
+              "porcentajeClaro": 0.0733,
+              "porcentajeColorido": 0.6485
+            }
+          ]
+        },
+        {
+          "numero": "0121",
+          "sku": "EROA0121",
+          "imagenes": [
+            {
+              "archivo": "Calavera floral vibrante del Día de Muertos.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": false,
+              "necesitaContraste": false,
+              "porcentajeClaro": 0.073,
+              "porcentajeColorido": 0.8665
+            }
+          ]
+        },
+        {
+          "numero": "0122",
+          "sku": "OOFR0122",
+          "imagenes": [
+            {
+              "archivo": "Calavera neón con sombrero y flores.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.1292,
+              "porcentajeColorido": 0.5275
+            }
+          ]
+        },
+        {
+          "numero": "0123",
+          "sku": "RAAG0123",
+          "imagenes": [
+            {
+              "archivo": "Catrina con Calaveras y Marigolds.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": false,
+              "necesitaContraste": false,
+              "porcentajeClaro": 0.0063,
+              "porcentajeColorido": 0.7673
+            }
+          ]
+        },
+        {
+          "numero": "0124",
+          "sku": "YSES0124",
+          "imagenes": [
+            {
+              "archivo": "Catrina entre flores y calaveras.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.1774,
+              "porcentajeColorido": 0.6552
+            }
+          ]
+        },
+        {
+          "numero": "0125",
+          "sku": "NDAT0125",
+          "imagenes": [
+            {
+              "archivo": "Catrina Mexicana con Corona de Marigolds.png",
+              "vista": "front",
+              "posicion": "top",
+              "vistaCodigo": "F",
+              "posicionCodigo": "T",
+              "estampadoClaro": false,
+              "necesitaContraste": false,
+              "porcentajeClaro": 0.0762,
+              "porcentajeColorido": 0.5963
+            }
+          ]
+        },
+        {
+          "numero": "0126",
+          "sku": "ENRR0126",
+          "imagenes": [
+            {
+              "archivo": "Catrina Mexicana con Flores y Colibríes.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": false,
+              "necesitaContraste": false,
+              "porcentajeClaro": 0.0178,
+              "porcentajeColorido": 0.8222
+            }
+          ]
+        },
+        {
+          "numero": "0127",
+          "sku": "EICO0127",
+          "imagenes": [
+            {
+              "archivo": "Catrina Mexicana entre Flores Vibrantes.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": false,
+              "necesitaContraste": false,
+              "porcentajeClaro": 0.0682,
+              "porcentajeColorido": 0.6914
+            }
+          ]
+        },
+        {
+          "numero": "0128",
+          "sku": "NEEA0128",
+          "imagenes": [
+            {
+              "archivo": "Día de los Muertos Floral Vibrante.png",
+              "vista": "front",
+              "posicion": "top",
+              "vistaCodigo": "F",
+              "posicionCodigo": "T",
+              "estampadoClaro": false,
+              "necesitaContraste": false,
+              "porcentajeClaro": 0.0191,
+              "porcentajeColorido": 0.7955
+            }
+          ]
+        },
+        {
+          "numero": "0129",
+          "sku": "OEEA0129",
+          "imagenes": [
+            {
+              "archivo": "Esqueletos festivos bailando con guitarra.png",
+              "vista": "front",
+              "posicion": "top",
+              "vistaCodigo": "F",
+              "posicionCodigo": "T",
+              "estampadoClaro": false,
+              "necesitaContraste": false,
+              "porcentajeClaro": 0.0433,
+              "porcentajeColorido": 0.6673
+            }
+          ]
+        }
+      ]
     },
     {
       "nombre": "HALLOWEEN",
