@@ -1,7 +1,7 @@
 {
   "version": 4,
-  "folioSiguiente": 135,
-  "generado": "2026-10-10T00:22:41.148Z",
+  "folioSiguiente": 136,
+  "generado": "2026-10-23T18:33:47.055Z",
   "categorias": [
     {
       "nombre": "AUTOS",
@@ -1793,6 +1793,23 @@
               "necesitaContraste": false,
               "porcentajeClaro": 0.0312,
               "porcentajeColorido": 0.7559
+            }
+          ]
+        },
+        {
+          "numero": "0135",
+          "sku": "ODSO0135",
+          "imagenes": [
+            {
+              "archivo": "San Judas Tadeo en Dorado y Verde.png",
+              "vista": "front",
+              "posicion": "center",
+              "vistaCodigo": "F",
+              "posicionCodigo": "C",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.0969,
+              "porcentajeColorido": 0.7058
             }
           ]
         }
