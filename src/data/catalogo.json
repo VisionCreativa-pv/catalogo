@@ -1,7 +1,7 @@
 {
   "version": 4,
-  "folioSiguiente": 141,
-  "generado": "2026-11-10T22:10:29.531Z",
+  "folioSiguiente": 149,
+  "generado": "2026-11-10T22:15:53.505Z",
   "categorias": [
     {
       "nombre": "AUTOS",
@@ -977,6 +977,142 @@
               "necesitaContraste": true,
               "porcentajeClaro": 0.0919,
               "porcentajeColorido": 0.6695
+            }
+          ]
+        },
+        {
+          "numero": "0141",
+          "sku": "EEPI0141",
+          "imagenes": [
+            {
+              "archivo": "Navidad-2023-Soporte vía WhatsApp® 3318751064- (44).png",
+              "vista": "front",
+              "posicion": "top",
+              "vistaCodigo": "F",
+              "posicionCodigo": "T",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.105,
+              "porcentajeColorido": 0.5596
+            }
+          ]
+        },
+        {
+          "numero": "0142",
+          "sku": "DODT0142",
+          "imagenes": [
+            {
+              "archivo": "Navidad-2023-Soporte vía WhatsApp® 3318751064- (55).png",
+              "vista": "front",
+              "posicion": "top",
+              "vistaCodigo": "F",
+              "posicionCodigo": "T",
+              "estampadoClaro": false,
+              "necesitaContraste": false,
+              "porcentajeClaro": 0.047,
+              "porcentajeColorido": 0.7395
+            }
+          ]
+        },
+        {
+          "numero": "0143",
+          "sku": "SVDD0143",
+          "imagenes": [
+            {
+              "archivo": "Navidad-2023-Soporte vía WhatsApp® 3318751064- (58).png",
+              "vista": "front",
+              "posicion": "top",
+              "vistaCodigo": "F",
+              "posicionCodigo": "T",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.1506,
+              "porcentajeColorido": 0.6075
+            }
+          ]
+        },
+        {
+          "numero": "0144",
+          "sku": "RHIA0144",
+          "imagenes": [
+            {
+              "archivo": "Navidad-2023-Soporte vía WhatsApp® 3318751064- (64).png",
+              "vista": "front",
+              "posicion": "top",
+              "vistaCodigo": "F",
+              "posicionCodigo": "T",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.2077,
+              "porcentajeColorido": 0.4362
+            }
+          ]
+        },
+        {
+          "numero": "0145",
+          "sku": "SDAA0145",
+          "imagenes": [
+            {
+              "archivo": "Navidad-2023-Soporte vía WhatsApp® 3318751064- (66).png",
+              "vista": "front",
+              "posicion": "top",
+              "vistaCodigo": "F",
+              "posicionCodigo": "T",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.0832,
+              "porcentajeColorido": 0.3761
+            }
+          ]
+        },
+        {
+          "numero": "0146",
+          "sku": "DPRT0146",
+          "imagenes": [
+            {
+              "archivo": "Navidad-2023-Soporte vía WhatsApp® 3318751064- (67).png",
+              "vista": "front",
+              "posicion": "top",
+              "vistaCodigo": "F",
+              "posicionCodigo": "T",
+              "estampadoClaro": false,
+              "necesitaContraste": false,
+              "porcentajeClaro": 0.0799,
+              "porcentajeColorido": 0.623
+            }
+          ]
+        },
+        {
+          "numero": "0147",
+          "sku": "ASNT0147",
+          "imagenes": [
+            {
+              "archivo": "Navidad-2023-Soporte vía WhatsApp® 3318751064- (70).png",
+              "vista": "front",
+              "posicion": "top",
+              "vistaCodigo": "F",
+              "posicionCodigo": "T",
+              "estampadoClaro": false,
+              "necesitaContraste": false,
+              "porcentajeClaro": 0.0695,
+              "porcentajeColorido": 0.7374
+            }
+          ]
+        },
+        {
+          "numero": "0148",
+          "sku": "SOAP0148",
+          "imagenes": [
+            {
+              "archivo": "Navidad-2023-Soporte vía WhatsApp® 3318751064- (71).png",
+              "vista": "front",
+              "posicion": "top",
+              "vistaCodigo": "F",
+              "posicionCodigo": "T",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.089,
+              "porcentajeColorido": 0.6276
             }
           ]
         }
