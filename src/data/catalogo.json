@@ -1,7 +1,7 @@
 {
   "version": 4,
-  "folioSiguiente": 136,
-  "generado": "2026-11-10T21:59:21.124Z",
+  "folioSiguiente": 141,
+  "generado": "2026-11-10T22:10:29.531Z",
   "categorias": [
     {
       "nombre": "AUTOS",
@@ -894,7 +894,93 @@
       "nombre": "NAVIDAD",
       "carpeta": "NAVIDAD",
       "prefijo": "NAV",
-      "productos": []
+      "productos": [
+        {
+          "numero": "0136",
+          "sku": "TNDO0136",
+          "imagenes": [
+            {
+              "archivo": "Navidad-2023-Soporte vía WhatsApp® 3318751064- (1).png",
+              "vista": "front",
+              "posicion": "top",
+              "vistaCodigo": "F",
+              "posicionCodigo": "T",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.108,
+              "porcentajeColorido": 0.6551
+            }
+          ]
+        },
+        {
+          "numero": "0137",
+          "sku": "TADN0137",
+          "imagenes": [
+            {
+              "archivo": "Navidad-2023-Soporte vía WhatsApp® 3318751064- (17).png",
+              "vista": "front",
+              "posicion": "top",
+              "vistaCodigo": "F",
+              "posicionCodigo": "T",
+              "estampadoClaro": false,
+              "necesitaContraste": false,
+              "porcentajeClaro": 0.0423,
+              "porcentajeColorido": 0.7922
+            }
+          ]
+        },
+        {
+          "numero": "0138",
+          "sku": "VPVT0138",
+          "imagenes": [
+            {
+              "archivo": "Navidad-2023-Soporte vía WhatsApp® 3318751064- (33).png",
+              "vista": "front",
+              "posicion": "top",
+              "vistaCodigo": "F",
+              "posicionCodigo": "T",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.3614,
+              "porcentajeColorido": 0.419
+            }
+          ]
+        },
+        {
+          "numero": "0139",
+          "sku": "WAAO0139",
+          "imagenes": [
+            {
+              "archivo": "Navidad-2023-Soporte vía WhatsApp® 3318751064- (40).png",
+              "vista": "front",
+              "posicion": "top",
+              "vistaCodigo": "F",
+              "posicionCodigo": "T",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.1484,
+              "porcentajeColorido": 0.3987
+            }
+          ]
+        },
+        {
+          "numero": "0140",
+          "sku": "IRPA0140",
+          "imagenes": [
+            {
+              "archivo": "Navidad-2023-Soporte vía WhatsApp® 3318751064- (42).png",
+              "vista": "front",
+              "posicion": "top",
+              "vistaCodigo": "F",
+              "posicionCodigo": "T",
+              "estampadoClaro": true,
+              "necesitaContraste": true,
+              "porcentajeClaro": 0.0919,
+              "porcentajeColorido": 0.6695
+            }
+          ]
+        }
+      ]
     },
     {
       "nombre": "san judas",
