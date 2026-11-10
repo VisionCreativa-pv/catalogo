@@ -1,7 +1,7 @@
 {
   "version": 4,
   "folioSiguiente": 136,
-  "generado": "2026-10-23T18:33:47.055Z",
+  "generado": "2026-11-10T21:59:21.124Z",
   "categorias": [
     {
       "nombre": "AUTOS",
@@ -889,6 +889,12 @@
           ]
         }
       ]
+    },
+    {
+      "nombre": "NAVIDAD",
+      "carpeta": "NAVIDAD",
+      "prefijo": "NAV",
+      "productos": []
     },
     {
       "nombre": "san judas",
